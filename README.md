@@ -25,5 +25,22 @@ Some Systems and application i built it
 
 
 
+# Certificates Content studied
+
+**eJPT 
+OSCP 
+eWPT 
+eCPPT 
+OWASP TOP TEN**
+
+# Certificates Content studying
+**eMAPT
+OSEP
+CRTP
+eWPTx
+eCPTx**
 
 
+# Certificates Content under updating 
+**eWPTv2
+eCPPTv2**
